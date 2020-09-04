@@ -62,7 +62,7 @@
     "imagemin-mozjpeg": "^6.0.0",
     "imagemin-webpack-plugin": "^1.2.1",
     "inline-manifest-webpack-plugin": "^3.0.1",
-    "node-sass": "^4.5.0",
+    "node-sass": "^4.13.1",
     "open-browser-webpack-plugin": "0.0.3",
     "postcss-loader": "^1.2.2",
     "rimraf": "^2.5.4",
